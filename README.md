@@ -1,7 +1,7 @@
 # Lab — Mi fido, anzi no
 
 Questi sono gli strumenti del laboratorio descritti nel libro
-[*«Mi fido, anzi no»*](https://www.amazon.it/dp/B0H6883VXR) di Francesco Miniato.
+[*«Mi fido, anzi no»*](https://www.amazon.it/dp/B0H6883VXR).
 
 Backtest, walk-forward, event study, analisi on-chain, paper trading crypto e
 simulatore forex: tutto quello che nel libro viene raccontato a parole, qui è
